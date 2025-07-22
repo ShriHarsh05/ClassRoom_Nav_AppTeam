@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89611261422",
+    "project_id": "classroom-navigation-system",
+    "storage_bucket": "classroom-navigation-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89611261422:android:7db20b5710f1af6fe7aaff",
+        "android_client_info": {
+          "package_name": "com.example.classroom_navigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89611261422-qbp3gj6p6i1s92vr2dk3ufcdjn2pb16b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classroom_navigator",
+            "certificate_hash": "5da7c6fab10438ae9a2e9dbfdf6de821f5a14c3e"
+          }
+        },
+        {
+          "client_id": "89611261422-6f7m4f5ns2uaafg6dlp9343lflhqi31u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-LKYaYNsnLOdW-pvx0PA_Es8-eGqSA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89611261422-6f7m4f5ns2uaafg6dlp9343lflhqi31u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
